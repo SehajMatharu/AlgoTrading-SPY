@@ -1,4 +1,5 @@
 Quantitative Trading Framework
+
 A modular Python framework for backtesting trading strategies, with built-in support for data acquisition, strategy implementation, performance analysis, and visualization.
 Features
 
